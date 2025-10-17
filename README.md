@@ -15,8 +15,8 @@
 ---
 
 ## 🧠 주요 프로젝트 (Selected Projects)
-| 프로젝트명 | 설명 | 링크 |
-|-------------|------|------|
+| 프로젝트명 | 설명 |
+|-------------|------|
 | 🧬 **3D8 scFv Antiviral Study** | RNA 가수분해 효소 활성 정량화 및 항바이러스 효능 평가 (FRET 기반 분석) | 
 | 🧩 **EEG Emotion Recognition (Patched Brain Transformer)** | EEG 신호 기반 감정 분석 모델 fine-tuning | 
 | 📊 **RNA-Seq Analysis Workflow** | DESeq2 및 Python 기반 RNA-seq 차등발현 및 GSEA 분석 파이프라인 | 
