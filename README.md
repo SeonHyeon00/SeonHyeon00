@@ -58,7 +58,9 @@ SQL, Python, 머신러닝, 딥러닝, GPT API 기반 분석 역량을 체계적�
 | 실습 경험 | 모델 훈련 → 테스트 → 성능 지표 분석 (Accuracy, MSE 등) | scikit-learn, PyTorch |
 | 최근 학습 주제 | GPT API 기반 응용 플랫폼 및 데이터 자동화 개발 | OpenAI API, LangChain |
 
----
+관련 프로젝트 성과
+https://www.notion.so/AI-Dognal-2c9478a23584815b8b4efafcf3209a5f
+--
 
 ## 🧠 데이터 분석 및 AI 학습 정리 (Summary)
 - **EDA (Exploratory Data Analysis):** 데이터의 분포·상관관계·이상치 탐색 및 시각화  
