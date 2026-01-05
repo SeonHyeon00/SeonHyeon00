@@ -34,13 +34,16 @@ Zika와 Dengue 바이러스는 높은 변이율로 인해 범용적 항바이러
 
 이를 통해 재현 가능한 정량 분석 체계를 확립하고, 후보 단백질의 항바이러스 효능을 객관적으로 비교할 수 있는 기반을 마련하였습니다.  
 
+
+
 ---
 
 ## 📊 연구에서 얻은 역량
 - 실험 데이터의 **정확성·재현성 확보 및 표준화 기준 수립** 경험  
 - FRET, qRT-PCR, ELISA 등 다양한 분석 기법을 활용한 **정량 실험 설계 능력**  
 - 생물학적 현상을 데이터로 해석하고 결과를 수치화하는 **분석적 사고 역량**  
-- 연구 과정 전반에 대한 **체계적 문서화·품질관리 경험 (GMP 실무 이해 포함)**  
+- 연구 과정 전반에 대한 **체계적 문서화·품질관리 경험 (GMP 실무 이해 포함)**
+
 
 ---
 
@@ -58,12 +61,12 @@ SQL, Python, 머신러닝, 딥러닝, GPT API 기반 분석 역량을 체계적�
 | 실습 경험 | 모델 훈련 → 테스트 → 성능 지표 분석 (Accuracy, MSE 등) | scikit-learn, PyTorch |
 | 최근 학습 주제 | GPT API 기반 응용 플랫폼 및 데이터 자동화 개발 | OpenAI API, LangChain |
 
---
+---
 
 ### 관련 프로젝트 성과
-https://www.notion.so/AI-Dognal-2c9478a23584815b8b4efafcf3209a5f
+[https://www.notion.so/AI-Dognal-2c9478a23584815b8b4efafcf3209a5f](https://www.notion.so/AI-Dognal-2c9478a23584815b8b4efafcf3209a5f?source=copy_link)
 
---
+---
 
 ## 🧠 데이터 분석 및 AI 학습 정리 (Summary)
 - **EDA (Exploratory Data Analysis):** 데이터의 분포·상관관계·이상치 탐색 및 시각화  
